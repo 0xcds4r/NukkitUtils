@@ -2,7 +2,7 @@
 
 Here you can download all the utilities for plugin development on Nukkit-MOT.
 
-_Example plugin tree:_
+_Example plugin files tree (/plugins/*):_
 
 
     └── ExamplePlugin/
