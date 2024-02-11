@@ -1,5 +1,0 @@
-name: ExamplePlugin
-main: ClassFolder.ClassName
-author: YOUR_NAME
-version: 1.0-SNAPSHOT
-api: ["1.0.0"]
