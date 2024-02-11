@@ -1,3 +1,0 @@
-{
-	"shell_cmd": "cd plugins && ./build-plugins.sh && cd .."
-}
